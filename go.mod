@@ -8,6 +8,6 @@ require (
 	github.com/ipsn/go-libtor v1.0.239
 	github.com/logrusorgru/aurora v0.0.0-20200102142835-e9ef32dff381
 	github.com/sirupsen/logrus v1.6.0
-	golang.org/x/net v0.0.0-20200520182314-0ba52f642ac2 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	google.golang.org/protobuf v1.24.0 // indirect
 )
